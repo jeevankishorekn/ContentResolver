@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/dialog_background.xml" value="0.26" />
+        <entry key="app/src/main/res/layout-sw360dp/activity_main.xml" value="0.24235076904296876" />
+        <entry key="app/src/main/res/layout-sw360dp/contact_item.xml" value="0.1824074074074074" />
+        <entry key="app/src/main/res/layout-sw360dp/update_contact_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_gallery.xml" value="0.10231481481481482" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3442581176757813" />
+        <entry key="app/src/main/res/layout/add_contact_dialogue.xml" value="0.4927693119755499" />
+        <entry key="app/src/main/res/layout/contact_item.xml" value="0.42130358660662637" />
+        <entry key="app/src/main/res/layout/gallery_item.xml" value="0.27465701633029516" />
+        <entry key="app/src/main/res/layout/update_contact_dialog.xml" value="0.2848731884057971" />
+        <entry key="app/src/main/res/menu/context_menu.xml" value="0.10231481481481482" />
+        <entry key="app/src/main/res/menu/custom_menu.xml" value="0.10138888888888889" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.42130358660662637" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
